@@ -1,2 +1,2 @@
 # flashCard
-Words from French to English 
+Word app from French to English 
